@@ -1,0 +1,14 @@
+Types of introspects:-
+Some of the other common Introspects:
+
+ Functions	    Working
+hasattr()	    It checks if an object has an attribute.
+getattr()	    It returns the contents of an attribute if there are some.
+repr()	        It returns the string representation of an object
+vars()	        It checks all the instance variables of an object
+issubclass()	This function checks that if a specific class is a derived class of another class.
+isinstance()	It checks if an object is an instance of a specific class.
+__doc__	            This attribute gives some documentation about an object
+__name__	    This attribute holds the name of the object
+callable()	    This function checks if an object is a function
+help()	        It checks what other functions do
